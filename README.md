@@ -3,6 +3,7 @@
 验证码倒计时按钮
 
 ## 效果
+![GDPCountDownButton](https://github.com/sunmumu/GDPCountDownButton/blob/main/Demo/%E6%95%88%E6%9E%9C.GIF?raw=true)
 
 ## Use
 法一 cocopods引用
