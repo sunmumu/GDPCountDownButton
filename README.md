@@ -11,7 +11,7 @@ pod 'GDPCountDownButton'
 
 法二 文件拖入项目中
 1. 下载GDPCountDownButton框架,把GDPCountDownButton文件夹拷贝到项目中. 
-2. 在控制器中#import "GDPCountDownButton".
+2. 在控制器中#import "GDPCountDownButton.h".
 
 ## 创建方法
 
